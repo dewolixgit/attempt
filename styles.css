@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    color: brown;
+    font-family: "Montserrat", sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.attempt {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
